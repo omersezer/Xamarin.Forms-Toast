@@ -1,0 +1,10 @@
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\bin\Debug\netstandard2.0\Mesaj.deps.json
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\bin\Debug\netstandard2.0\Mesaj.dll
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\bin\Debug\netstandard2.0\Mesaj.pdb
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.csprojResolveAssemblyReference.cache
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.csproj.CoreCompileInputs.cache
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.Views.AnaSayfa.xaml.g.cs
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.AssemblyInfoInputs.cache
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.AssemblyInfo.cs
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.dll
+C:\Users\OmerSezer\source\repos\Mesaj\Mesaj\Mesaj\obj\Debug\netstandard2.0\Mesaj.pdb
